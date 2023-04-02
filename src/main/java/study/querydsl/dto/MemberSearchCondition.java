@@ -18,7 +18,6 @@ public class MemberSearchCondition {
         this.ageLoe = ageLoe;
     }
 
-    public MemberSearchCondition(String username) {
-        this.username = username;
+    public MemberSearchCondition() {
     }
 }
